@@ -1,0 +1,14 @@
+/* color: rgb(123, 128, 154); */
+/* background: linear-gradient(195deg, rgb(73, 163, 241), rgb(26, 115, 232)); */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body {
+  background-color: rgba(128, 128, 128, 0.636);
+}
+
